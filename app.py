@@ -38,4 +38,4 @@ else:
     st.write("Uma rede social para mostrar aos outros seus interesses em diferentes formatos de mídia")
 
     if st.button("Comece agora mesmo!"):
-        st.switch_page("01_Login")
+        st.switch_page("01_login")
